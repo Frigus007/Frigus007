@@ -1,22 +1,13 @@
-# Hi there! 👋 I'm Ketan Shailendra Patil
+# Hi there! 👋 I'm Ketan Patil
 
-👨‍💻 **Software Engineer II**  
-Experienced Software Engineer with over 3 years of expertise in designing, optimizing, and maintaining highly scalable, latency-sensitive APIs and data pipelines within the AdTech domain. Committed to enhancing code velocity and code quality throughout the team's development process. Excellent communication skills with great potential to learn. Always ready to take on challenging tasks and improve my knowledge.
+👨‍💻 **Software Engineer**  
+Experienced Software Engineer with over 3 years of expertise in designing, optimizing, and maintaining highly scalable, latency-sensitive APIs and data pipelines within the AdTech domain. Committed to enhancing code velocity and code quality throughout the team's development process. Excels in communication and continuously seeks opportunities to learn and tackle challenging tasks.
 
 🎓 Studied Computer Engineering at Mumbai University  
 📧 Reach me at: ketanap05@gmail.com  
 📞 Contact: +91 8805047039  
 🔗 LinkedIn: [linkedin.com/in/ketan-patil-kp](linkedin.com/in/ketan-patil-kp)  
 
-### WORK EXPERIENCE
-**Media.net (Directi)**  
-_Contextual Advertising & Programmatic Platform_  
-_Andheri, Mumbai_ 
-
-- Integral member of the core contextualization team, specializing in the development and optimization of systems for delivering search re-targeting and content-based ads.
-- Designed and implemented robust data pipelines to ensure efficient data processing and analysis. Successfully managed concurrent projects, with a focus on ad phrases analyzers within the Core Ad Keyword API.
-- Proficiently developed large-scale, latency-sensitive, high QPS, and fault-tolerant APIs, as well as production-ready reliable data pipelines and data stores.
-- Demonstrated expertise in deploying systems across multiple data centers, encompassing both cloud and on-premises environments. Utilized a diverse technology stack, predominantly including Java, Python, Tomcat, SQL, Aerospike, Kafka, Redis, and Kubernetes.
 
 ### TECHNICAL SKILLS
 - **Programming:** ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=007396) ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/OOP-informational?style=flat&color=blue) ![Data Structures](https://img.shields.io/badge/Data%20Structures-informational?style=flat&color=green) ![Natural Language Processing (NLP)](https://img.shields.io/badge/NLP-informational?style=flat&color=orange) ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB) ![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032) ![Bash](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
