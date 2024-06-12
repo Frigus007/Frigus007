@@ -4,8 +4,7 @@
 Experienced Software Engineer with over 3 years of expertise in designing, optimizing, and maintaining highly scalable, latency-sensitive APIs and data pipelines within the AdTech domain. Committed to enhancing code velocity and code quality throughout the team's development process. Excels in communication and continuously seeks opportunities to learn and tackle challenging tasks.
 
 🎓 Studied Computer Engineering at Mumbai University  
-📧 Reach me at: ketanap05@gmail.com  
-📞 Contact: +91 8805047039  
+📧: ketanap05@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/ketan-patil-kp](linkedin.com/in/ketan-patil-kp)  
 
 
