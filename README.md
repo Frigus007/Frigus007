@@ -9,7 +9,7 @@ Experienced Software Engineer with over 3 years of expertise in designing, optim
 🔗 LinkedIn: [linkedin.com/in/ketan-patil-kp](linkedin.com/in/ketan-patil-kp)  
 
 ### WORK EXPERIENCE
-**Media.net (Directi) | Web Application Developer II**  
+**Media.net (Directi)**  
 _Contextual Advertising & Programmatic Platform_  
 _Andheri, Mumbai_ 
 
