@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Ketan Patil
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 
 👨‍💻 **Software Engineer**  
 Experienced Software Engineer with over 3 years of expertise in designing, optimizing, and maintaining highly scalable, latency-sensitive APIs and data pipelines within the AdTech domain. Committed to enhancing code velocity and code quality throughout the team's development process. Excels in communication and continuously seeks opportunities to learn and tackle challenging tasks.
